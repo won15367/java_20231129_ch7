@@ -26,6 +26,9 @@ public class Main {
 		
 		student.printName();
 		
+		People people2 = new People("홍길동", "1234567");
+		People people3 = new Student("홍길동", "1234567");
+		
 	}
 
 }
